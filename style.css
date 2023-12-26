@@ -1,0 +1,109 @@
+body{
+    background-image: url(background.png);
+}
+.kontainer{
+    color: white;
+    display: flex;
+    margin-left: 800px;
+}
+.home{
+    margin-left: 750px;
+}
+.region{
+    margin-left: 20px;
+}
+.about{
+    margin-left: 20px;
+}
+.contact{
+    margin-left: 20px;
+}
+.sahara{
+    color: white;
+    margin-top: 150px;
+    font-size: 90px;
+    margin-left: 150px;
+}
+.logo{
+    margin-left: -700px;
+}
+.div1{
+border-radius:10px;
+margin-left: 900px;
+margin-top: -145px;
+}
+.western{
+    color:white;
+    margin-left: 930px;
+    margin-top: -160px;
+}
+.lorem{
+    margin-left: 930px;
+    margin-top: -15px;
+    width: 100px;
+    color: white;
+}
+.div2{
+    border-radius:10px;
+    margin-left: 1100px;
+    margin-top: -300px;
+    }
+    .western1{
+        color:white;
+        margin-left: 1130px;
+        margin-top: -160px;
+    }
+    .lorem1{
+        margin-left: 1130px;
+        margin-top: -15px;
+        width: 100px;
+        color: white;
+    }
+    .div3{
+        border-radius:10px;
+        margin-left: 900px;
+        margin-top: 20px;
+        }
+        .western2{
+            color:white;
+            margin-left: 930px;
+            margin-top: -160px;
+        }
+        .lorem2{
+            margin-left: 930px;
+            margin-top: -15px;
+            width: 100px;
+            color: white;
+        }
+        .div4{
+            border-radius:10px;
+            margin-left: 1100px;
+            margin-top: -90px;
+            }
+            .western3{
+                color:white;
+                margin-left: 1130px;
+                margin-top: -160px;
+            }
+            .lorem3{
+                margin-left: 1130px;
+                margin-top: -15px;
+                width: 100px;
+                color: white;
+            }
+            .the{
+                color: white;
+                width: 680px;
+                margin-top: -210px;
+                margin-left: 150px;
+            }
+            .explore{
+                border-radius: 25px;
+                border: 1px solid white;
+                width: 65px;
+                background-color: white;
+                padding-left: 50px;
+                padding-right: 50px;
+                cursor: pointer;
+                margin-left: 150px;
+            }
